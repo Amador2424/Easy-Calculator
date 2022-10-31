@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">teccart_au22</string>
+    <string name="One">1</string>
+    <string name="Two">2</string>
+    <string name="Three">3</string>
+    <string name="Four">4</string>
+    <string name="Five">5</string>
+    <string name="Six">6</string>
+    <string name="Seven">7</string>
+    <string name="height">8</string>
+    <string name="Nine">9</string>
+    <string name="Zero">0</string>
+    <string name="plusMin">+/-</string>
+
+
+    <string name="Equal">=</string>
+    <string name="Clear">C</string>
+    <string name="Calcul">Enter a value</string>
+
+    <string name="Division">/</string>
+    <string name="Multiplication">*</string>
+    <string name="Addition">+</string>
+    <string name="Soustraction">-</string>
+    <string name="MyName">Amadou Doro Diallo </string>
+
+</resources>
